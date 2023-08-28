@@ -6,7 +6,7 @@ This is html,css based template that i made for resume.
 ![demanding template](task2.png)
 
 
-![delivered template](Web capture_28-8-2023_22139_.jpeg.crdownload)
+![delivered template]([Web capture_28-8-2023_22139_.jpeg.crdownload](https://github.com/jahanzaib2353/resume-template2/blob/main/Web%20capture_28-8-2023_22139_.jpeg.crdownload)https://github.com/jahanzaib2353/resume-template2/blob/main/Web%20capture_28-8-2023_22139_.jpeg.crdownload)
 
 
 
