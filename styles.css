@@ -1,0 +1,136 @@
+.container{
+    max-width: 900px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+}
+.block {
+    background-color: #11b1bd;
+    width: 250px;
+    height: 60px;
+}
+
+.details{
+    max-width: 250px;
+    max-height: 100%;
+    background-color: #11b1bd;
+    color: aliceblue;
+}
+.medm{
+  color: rgb(189, 192, 192);
+}
+.details div, article, p{
+    margin: auto;
+    padding-left: 5px;
+
+}
+ul{
+    list-style: square;
+    padding: 0;
+    padding-left: 20px;
+    
+}
+
+
+
+
+.language-cont {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; /* Align circles to the right */
+  align-items: center; /* Vertically center circles */
+  margin-bottom: 10px !important;
+  width: auto;
+}
+
+.language-cont {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+
+.langname {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+
+.dots {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: rgb(217, 218, 223);
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.langcircle {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 10px;
+  margin-right: 2px;
+  
+  
+}
+
+
+.dots {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: rgb(217, 218, 223);
+  margin-left: 5px; /* Use margin-left to create spacing between circles */
+}
+
+.langcircle {
+  display: flex;
+  align-items: center; /* Vertically center circles within the container */
+}
+
+
+
+  .about{
+    display: flex;
+    justify-content: space-between;
+  }
+ .Employment{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 0;
+  margin-right: 0;
+  margin: auto;
+  
+ }
+ .heading{
+  color: rgb(30, 156, 156);
+ }
+ .lef-sec{
+  width: 200px;
+
+ }
+ .right-sec{
+  width: 400px;
+
+.right-sec,ul{
+ padding-left: 25px;
+ 
+ 
+ 
+
+}
+  
+ }
+.history{
+  width: 600px;
+}
+ .profile{
+  margin-left: 0;
+  margin-right: 0;
+  margin: auto;
+ }
